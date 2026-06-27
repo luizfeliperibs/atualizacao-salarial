@@ -1,4 +1,3 @@
-````markdown
 # Aplicação de Reajuste de Planilha Salarial
 
 ## 📖 Sobre o projeto
